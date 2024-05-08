@@ -1,4 +1,4 @@
-# TIPE - Medical Blockchain
+# TIPE - Paradoxe de Braess
   
 ## Propos
 Ceci est mon TIPE réalisé lors de ma 5/2 en MP.  
@@ -29,8 +29,8 @@ Puis lancer l'implémentation python du modèle : ```python3 TIPE.py```
 ### Ecart entre l'optimum social et l'équilibre de Wardrop  
 Si l'on enlève la route 1->2, le traffic est plus fluide :  
 on passe de 3 chemins possibles (0->1->2;  0->1->3->2;  0->3->2) à 2 (0->1->2;  0->3->2), ceci diminuant le coût par arc.
-![Ecart équilibres](/images/accord%20modeles.png "Ecart équilibres")  
+![Ecart équilibres](/Images/accord%20modeles.png "Ecart équilibres")  
   
 ## Efficacité de la taxe pigouvienne  
 Une fois la taxe suffisante, le comportement réel rejoint le comportement théorique souhaité.  
-![Variation taxes](/images/variation%20taxe.png "Variation taxes")  
+![Variation taxes](/Images/variation%20taxe.png "Variation taxes")  
